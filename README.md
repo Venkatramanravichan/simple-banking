@@ -1,2 +1,2 @@
 # simple-banking
-This Python Code User Can Create, Deposit, Withdrawl, Balance enquiry In Bank Account
+User Can Create, Deposit, Withdrawal And Enquire The Balance In His/Her Bank Account By Using This Python Code
